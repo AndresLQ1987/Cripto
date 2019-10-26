@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bkg_main_color">#529CD0</color>
+    <color name="txt_color">#FFFFFF</color>
+    <color name="txt_hint_color">#AAFFFFFF</color>
+    <color name="btn_bkg_color">#272727</color>
+</resources>
