@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         FileOutputStream archivo;
         try
         {
-            archivo = openFileOutput("user.txt",MODE_PRIVATE);
+            archivo = openFileOutput("user.xml",MODE_PRIVATE);
             archivo.write(contentFile.getBytes());
             archivo.close();
         } catch (FileNotFoundException e) {
